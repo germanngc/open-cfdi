@@ -3,6 +3,7 @@
 /.vscode
 /vendor
 /node_modules
+/docker-compose/mysql/persistent
 npm-debug.log
 yarn-error.log
 
